@@ -1,0 +1,19 @@
+{
+"vehicle": {
+"name": "City Scooter",
+"type": "scooter",
+"manufacturer": "Urban Mobility Co.",
+"model": "EcoRide 45",
+"max_speed_kmh": 45,
+"engine": {
+"type": "electric",
+"power_kw": 4
+},
+"dimensions": {
+"length_m": 1.8,
+"width_m": 0.7,
+"height_m": 1.2
+},
+"weight_kg": 85
+}
+}
